@@ -25,12 +25,8 @@ optionally if you want to use BLE w/ battery:
 - 1x battery connectro 2pin Molex Pico Blade
 - 1x on/off switch MSK-12C02
 
-### firmware
+### the rest
 
-The SPC EVDR uses ZMK firmware.
+Everything in this repository is free to use however you might see fit. If you want to support me and my projects, please consider linking back to this repository if you build/change/use anything.
 
-If you prefer the github workflow, you can find the zmk config [here](https://github.com/weteor/SPC_EVDR-Config).
-
-### 
-
-![side](img/side.png)![back](img/back.png)![render](https://user-images.githubusercontent.com/79446655/197630217-8b76d6c4-c2ee-4cee-82ff-70f0dda0aa4b.mp4)
+If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
